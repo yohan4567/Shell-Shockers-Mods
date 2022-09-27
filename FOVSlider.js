@@ -1,5 +1,5 @@
 let fovBox = document.createElement('header')
-div.className = 'weapon-select weapon-select--title roundme_sm'
+fovBox.className = 'weapon-select weapon-select--title roundme_sm'
 
 let breaker = document.createElement('br')
 
