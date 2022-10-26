@@ -1,4 +1,5 @@
 [
   ["2J7o4eQ6rBhKBP5iNIJWfJsV1fg2", "[Agent Adam#5972 / 691644457287811152]"],
-  ["mAxzQKLYtjQeH1rryFTCORiaTkl2", "[Sh6rk#0453 / 696100580816322651]"]
+  ["mAxzQKLYtjQeH1rryFTCORiaTkl2", "[Sh6rk#0453 / 696100580816322651]"],
+  ["7zcv0nmU4HUpm9vgTl9YFezRr3q2", "[Yaboi Jenkins#1420 / 447156904553086987]"
 ]
